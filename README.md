@@ -1,0 +1,1 @@
+This repository is for a shell assignment focused on testing the creation of a local repository, pushing it to github and writing simple shell scripts.
